@@ -1,0 +1,25 @@
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\The death killer.exe
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\The death killer.pdb
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\MonoGame.Framework.dll
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.dll
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\Lidgren.Network.dll
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.XInput.dll
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.xml
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.XInput.xml
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\inżynierka\projekt\gra\The death killer\The death killer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\inżynierka\projekt\gra\The death killer\The death killer\obj\x86\Debug\The death killer.exe
+C:\inżynierka\projekt\gra\The death killer\The death killer\obj\x86\Debug\The death killer.pdb

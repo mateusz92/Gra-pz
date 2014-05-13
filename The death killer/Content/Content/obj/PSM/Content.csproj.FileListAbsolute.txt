@@ -1,0 +1,5 @@
+C:\inżynierka\projekt\gra\The death killer\Content\Content\bin\PSM\IgnoreMe.dll
+C:\inżynierka\projekt\gra\The death killer\Content\Content\obj\PSM\ResolveAssemblyReference.cache
+C:\inżynierka\projekt\gra\The death killer\Content\Content\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\inżynierka\projekt\gra\The death killer\Content\Content\obj\PSM\IgnoreMe.dll
+C:\inżynierka\projekt\gra\The death killer\Content\Content\bin\PSM\Content\Koala.xnb
