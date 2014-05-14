@@ -54,18 +54,13 @@
   <ItemGroup>
     <Folder Include="Content\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Content\Content\Content.csproj">
+      <Project>{AB0D9F4C-A00E-4557-9C7E-F48C18BB0671}</Project>
+      <Name>Content</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <Target Name="BeforeBuild">
-    <MSBuild Projects="$(SolutionDir)$(ContentProject)\$(ContentProject)Content\$(ContentProject)Content.contentproj" Properties="XNAContentPipelineTargetProfile=Reach;XNAContentPipelineTargetPlatform=Windows" />
-    <ItemGroup>
-      <XNAContent Include="$(SolutionDir)\$(ContentProject)\$(ContentProject)\bin\Windows\**\*.xnb" />
-    </ItemGroup>
-    <Copy SourceFiles="@(XNAContent)" DestinationFiles="@(XNAContent->'$(ProjectDir)\bin\Windows\$(Configuration)\%(RecursiveDir)\%(Filename)%(Extension)')" />
-  </Target>
-  <PropertyGroup>
-    <ContentDirectory>Content</ContentDirectory>
-    <ContentProject>Content</ContentProject>
-  </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">

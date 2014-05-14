@@ -23,3 +23,5 @@ C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Release
 C:\inżynierka\projekt\gra\The death killer\The death killer\obj\x86\Release\ResolveAssemblyReference.cache
 C:\inżynierka\projekt\gra\The death killer\The death killer\obj\x86\Release\The death killer.exe
 C:\inżynierka\projekt\gra\The death killer\The death killer\obj\x86\Release\The death killer.pdb
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Release\Content\Koala.xnb
+C:\inżynierka\projekt\gra\The death killer\The death killer\bin\Windows\Release\IgnoreMe.dll
